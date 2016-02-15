@@ -1,0 +1,32 @@
+"URL" = "http://webapp.minesdedouai.fr/tn/webapp/services/";
+
+// Image
+"NAME_APP_ICON" = "nameApp.png";
+"CATEGORY_ICON" = "category.png";
+"URL_ICON" = "url.png";
+"DESCRIPTION_ICON" = "description.png";
+"NOTE_ICON" = "note.png";
+"COMMENT_ICON" = "comment.png";
+
+"NEWS_ICON" = "news.png";
+"CATALOGUE_ICON" = "catalogue.png";
+"FOOD_ICON" = "food.png";
+"DIVERTISSEMENT_ICON" = "divertissement.png";
+"BUSINESS_ICON" = "business.png";
+"EDUCATION_ICON" = "education.png";
+"CHILDREN_ICON" = "children.png";
+"FINANCE_ICON" = "finance.png";
+"SANTE_ICON" = "sante.png";
+"GAME_ICON" = "game.png";
+"BOOK_ICON" = "book.png";
+"WEATHER_ICON" = "weather.png";
+"MUSIC_ICON" = "music.png";
+"NAVIGATION_ICON" = "navigation.png";
+"MOVIE_ICON" = "movie.png";
+"PRODUCTIVITY_ICON" = "productivity.png";
+"REFERENCE_ICON" = "reference.png";
+"SOCIAL_NETWORK_ICON" = "socialNetwork.png";
+"SPORT_ICON" = "sport.png";
+"STYLE_DE_VIE_ICON" = "styleDeVie.png";
+"UTILITAIRE_ICON" = "utilitaire.png";
+"VOYAGE_ICON" = "voyage.png";
